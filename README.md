@@ -4,34 +4,34 @@ The single most powerful beaming tool!
 
 ![image](https://user-images.githubusercontent.com/105808915/169319151-ce264259-9bbf-439b-905d-383d2729a144.png)
 
-
+Version 0.1.6
 
 Features:
 
 
-Create XSS Beaming Link (One Click Method)
+-Create XSS Beaming Link (One Click Method)
 
-Image Logger Generator
+-Image Logger Generator
 
-Mp3 Logger Generator
+-Mp3 Logger Generator
 
-Mp4 Logger Generator
+-Mp4 Logger Generator
 
-Cookie Login Browser
+-Cookie Login Browser
 
-Roblox Username Cookie Resolver
+-Roblox Username Cookie Resolver
 
-Beaming Phishing Link Gen
+-Beaming Phishing Link Gen
 
-Checkbox Features:
+-Checkbox Features:
 
-Steal Cookies
+-Steal Cookies
 
-Steal Discord Token
+-Steal Discord Token
 
-Access Victim Webcam
+-Access Victim Webcam
 
-Kill Victim PC
+-Kill Victim PC
 
-Keylog Victim
+-Keylog Victim
 
